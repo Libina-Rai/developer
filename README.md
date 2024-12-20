@@ -1,7 +1,7 @@
 # Libina Rai
 
 ## About Me
-Hello! I’m Libina Rai, a passionate Computer Science and Information Technology (CSIT) student. I love painting, trekking, and playing basketball and volleyball.
+Hello! I’m Libina Rai, a passionate Computer Science and Information Technology (CSIT) student. 
 
 ---
 ## Current Focus
